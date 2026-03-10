@@ -1,3 +1,4 @@
+
 # Hi there 👋
 
 I'am a information engineer. I have been combining technology and passion since 2006 to create unique and powerful online solutions for multiple clients. I actively collaborate with my clients, delivering websites and web applications that help their organizations grow, both now and in the future. I translate client needs into clear specifications that developers can immediately turn into successful webshops and applications.
@@ -16,9 +17,9 @@ At heart I’m a **husband and father**.
 When I’m not behind a screen you’ll probably find me:
 
 **Kitesurfing** — chasing wind across the water  
-*Mountain biking** — chasing dirt through the woods  
-*Brewing my own beer** — science, but tastier  
-**Perfecting homemade pizza** — serious research 🍕 
+**Mountain biking** — chasing dirt through the woods  
+**Brewing my own beer** — science, but tastier  
+**Perfecting homemade pizza** — serious research
 **Creating mini adventures with my kids**
 
 
