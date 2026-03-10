@@ -20,6 +20,7 @@ When I’m not behind a screen you’ll probably find me:
 **Mountain biking** — chasing dirt through the woods  
 **Brewing my own beer** — science, but tastier  
 **Perfecting homemade pizza** — serious research
+
 **Creating mini adventures with my kids**
 
 
