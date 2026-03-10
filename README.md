@@ -1,67 +1,9 @@
 # Hi there 👋
 
-## 👨‍💻 About Me
-I’m an **Information Engineer** who has been combining technology and passion since **2006** to build powerful and unique online solutions.
+I'am a information engineer. I have been combining technology and passion since 2006 to create unique and powerful online solutions for multiple clients. I actively collaborate with my clients, delivering websites and web applications that help their organizations grow, both now and in the future. I translate client needs into clear specifications that developers can immediately turn into successful webshops and applications.
 
-I work closely with clients to create **websites, webshops, and web applications** that help their organizations grow — not just today, but well into the future 🚀.
+Your online success is my mission. I thrive on working with clients where I see challenges and opportunities to drive their business forward.
 
-My role often sits between **business ideas and working code**:
-- Translating client needs into **clear technical specifications**
-- Helping developers turn those specs into **successful products**
-- Making sure projects stay **focused, scalable, and valuable**
+I view complex projects as exciting challenges that push me to think creatively and innovate. Building long-term relationships is important to me, ensuring that my clients see a significant return on their investment.
 
-Think of me as the person who connects **ideas 💡 → technology ⚙️ → results 📈**.
-
----
-
-## 🎯 Mission
-Your **online success** is my mission.
-
-I love working with clients where I see **real challenges and opportunities** to push a business forward. Complex projects don't scare me — they actually excite me 😄
-
-To me, a great project means:
-- Creative problem solving 🧠
-- Smart technical solutions ⚡
-- Long-term partnerships 🤝
-- Real return on investment 💰
-
----
-
-## 🧩 How I Work
-I believe in **clear communication and collaboration**.
-
-My goal is always to create a bridge between:
-- business goals
-- user experience
-- and technical execution
-
-So developers can build great things **without guessing what the client actually meant** 😅.
-
----
-
-## 🧑‍👧‍👦 Life Outside Code
-At heart I’m a **husband and father**.
-
-When I’m not behind a screen you’ll probably find me:
-
-🌊 **Kitesurfing** — chasing wind across the water  
-🚵 **Mountain biking** — chasing dirt through the woods  
-🍺 **Brewing my own beer** — science, but tastier  
-🍕 **Perfecting homemade pizza** — serious research  
-🧭 **Creating mini adventures with my kids**
-
-Because life shouldn’t be all code… even if debugging sometimes feels like an adventure too.
-
----
-
-## ☕ Fun Fact
-Some of my best project ideas appear:
-- during a bike ride 🚵
-- while brewing beer 🍺
-- or while waiting for pizza dough to rise 🍕
-
-Coincidence? I think not.
-
----
-
-⭐ *Building great digital solutions since 2006*
+At heart, I’m a husband and a father. When time allows, I chase wind and dirt, kitesurfing across the water or mountain biking through the woods. I also enjoy the slower adventures: brewing my own beer, perfecting homemade pizza, and creating little adventures with my kids. 
