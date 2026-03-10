@@ -9,18 +9,3 @@ I view complex projects as exciting challenges that push me to think creatively 
 
 At heart, I’m a husband and a father. When time allows, I chase wind and dirt, kitesurfing across the water or mountain biking through the woods. I also enjoy the slower adventures: brewing my own beer, perfecting homemade pizza, and creating little adventures with my kids. 
 
-
-
-## Life Outside Code
-At heart I’m a **husband and father**.
-
-When I’m not behind a screen you’ll probably find me:
-
-**Kitesurfing** — chasing wind across the water  
-**Mountain biking** — chasing dirt through the woods  
-**Brewing my own beer** — science, but tastier  
-**Perfecting homemade pizza** — serious research
-
-**Creating mini adventures with my kids**
-
-
